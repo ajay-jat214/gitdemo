@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey hiii there!!okk cool,try something new
+=======
+hey hiii there!!
+>>>>>>> parent of 3e29205... second commit
